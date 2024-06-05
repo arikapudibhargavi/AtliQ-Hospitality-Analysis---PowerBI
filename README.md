@@ -12,4 +12,4 @@ You can download all relevant documents from the download section.
 
    * create the metrics according to the metric list.
    * create a dashboard according to the mock-up provided by stakeholders.
-   *create relevant insights that are not provided in the metric list/mock-up dashboard.
+   * create relevant insights that are not provided in the metric list/mock-up dashboard.
